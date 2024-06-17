@@ -1,1 +1,2 @@
 1. Leaky Bucket to throttle users
+2. Hinted handoff in Cassandra
